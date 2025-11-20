@@ -13,7 +13,7 @@ Education:
 
 Publications:
 
-* #Aadesh Upadhyay# , Robin Chataut, Yusuf Usman and Mary Nanyka. "Spam No More: A Cross-Model Analysis of Machine Learning Techniques and Large Language Model Efficacies" 2024 CSNet
+* #Aadesh Upadhyay , Robin Chataut, Yusuf Usman and Mary Nanyka. "Spam No More: A Cross-Model Analysis of Machine Learning Techniques and Large Language Model Efficacies" 2024 CSNet
 *
 *
 *

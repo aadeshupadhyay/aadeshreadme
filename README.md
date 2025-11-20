@@ -8,7 +8,7 @@ I am a machine learning researcher and engineer with over 3 years of experience 
 My research endeavors are driven by a commitment to enhancing the performance of AI models. It is my vision to facilitate the deployment of these models in real-world scenarios. By developing visually intuitive explanations of complex machine learning models, my goal is to make AI interpretable and trustworthy enough for use in practical applications.
 
 Education:
-Master's in Computer Science - University of North Texas 2024
-Bachelor's in Electrical Engineering - Anna University 2022
+* Master's in Computer Science - University of North Texas 2024
+* Bachelor's in Electrical Engineering - Anna University 2022
 
 Publications:

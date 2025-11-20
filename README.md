@@ -13,9 +13,10 @@ Education:
 
 Publications:
 
-* #Aadesh Upadhyay , Robin Chataut, Yusuf Usman and Mary Nanyka. "Spam No More: A Cross-Model Analysis of Machine Learning Techniques and Large Language Model Efficacies" 2024 CSNet
-*
-*
-*
-*
+* [DOI](https://ieeexplore.ieee.org/abstract/document/10851763) **Aadesh Upadhyay** , Robin Chataut, Yusuf Usman and Mary Nanyka. "Spam No More: A Cross-Model Analysis of Machine Learning Techniques and Large Language Model Efficacies" 2024 CSNet. 
+* [DOI](https://www.igi-global.com/chapter/introduction-to-deepfake-technology-and-its-early-foundations/364345) **Aadesh Upadhyay** , Robin Chataut “Introduction to Deepfakes and its early foundations” Book Chapter IGI Global. 
+* [DOI](https://arxiv.org/abs/2408.12806) Yusuf Usman, **Aadesh Upadhyay**, Robin Chataut, and Prashna Gyawali. "Is Generative AI the Next Tactical Cyber Weapon For Threat Actors? Unforeseen Implications of AI Generated Cyber Attacks
+* [DOI] (https://ieeexplore.ieee.org/abstract/document/10697161) Mary Nanyka, Allan Mugisa, Yusuf Usman, **Aadesh Upadhyay** and Robin Chataut. “Security and Privacy in E-Health Systems: A Review of AI and Machine Learning Techniques” 2024 IEEE Access.
+* [DOI] (https://ieeexplore.ieee.org/abstract/document/10819599) Siamak Biglari, Farahnaz Hosseini, Aadesh Upadhyay, and Hui Zhao. “Survey of Network-on-Chip (NoC) for Heterogeneous Multicore Systems”.
+
 
